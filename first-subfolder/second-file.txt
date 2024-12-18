@@ -1,1 +1,2 @@
 Second file text
+Эти изменения произошли в ветке main
